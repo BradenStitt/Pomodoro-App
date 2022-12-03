@@ -1,4 +1,4 @@
-# Pomodoro App
+# Pomodoro Timer App
 
 ## Description:
 It works like a 25 minute timer on steroids! Designed to study or work without procrastinating. Based on Pomodoro Technique, you can keep focused and finish tasks effectively, all with a clean and simplistic design. Take more time to your life.
