@@ -23,4 +23,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact:
 Braden Stitt - @BradenStitt - stittbraden@gmail.com
 
-Project Link: https://github.com/PrynceBrazy/Pomodoro-App
+Project Link: https://github.com/BradenStitt/Pomodoro-App
