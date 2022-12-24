@@ -1,7 +1,9 @@
 # Pomodoro Timer App
 
 ## Description:
-It works like a 25 minute timer on steroids! Designed to study or work without procrastinating. Based on Pomodoro Technique, you can keep focused and finish tasks effectively, all with a clean and simplistic design. Take more time to your life.
+Welcome to the Python Pomodoro App!
+
+This app is designed to help you manage your time and increase productivity using the Pomodoro Technique. The Pomodoro Technique is a time management method that breaks work into 25-minute intervals, separated by short breaks. We hope you find this app helpful in your productivity journey!
 <br/><br/>
 
 ## Libraries:
@@ -9,9 +11,9 @@ It works like a 25 minute timer on steroids! Designed to study or work without p
 <br/><br/>
 
 ## How to Install/Run:
-1. Clone this Repository Using "git clone "https://github.com/PrynceBrazy/Pomodoro-App" in terminal.
-- OR Zip Download the Repository and Extract it's Contents.
-2. Now run the Pomodoro App file directly in your Terminal using "python app.py", or if you're using python3"python3 app.py".
+1. To use the app, you will need to have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org/).
+2. Once you have Python installed, you can clone the repository using the command "git clone "https://github.com/PrynceBrazy/Pomodoro-App" in terminal or download the zip file and extract it to a directory on your computer. 
+2. Navigate to the directory in a terminal window and enter the command "python app.py", or if you're using python3 "python3 app.py" to run the app.
 <br/><br/>
 
 ## License:
