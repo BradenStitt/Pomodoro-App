@@ -7,7 +7,7 @@ This app is designed to help you manage your time and increase productivity usin
 <br/><br/>
 
 ## Libraries:
-- Run the command "pip install requirements.txt" in terminal.
+- Run the command "pip install requirements.txt" in terminal after installation.
 <br/><br/>
 
 ## How to Install/Run:
